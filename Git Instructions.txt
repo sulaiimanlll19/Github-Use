@@ -12,5 +12,8 @@ If identity unknown:
 		-> git config --global user.email "<ur email>"
 		-> git config --global user.name "<ur name>"
 
-git commit -m "Initila commit"
-git push origin master
+For first intial commit:
+	- git commit -m "Initila commit"
+
+Last command to push onto Github:
+	- git push origin master
