@@ -1,0 +1,13 @@
+First to clone/copy file from Github:
+	- write this command -> "git clone <CloneURL> <fileName>"
+
+To get the status of folder if uploaded or not:
+	- write this command -> "git status" while accesing from bash
+
+To get the unshipped file to be ready to push:
+	- write this command -> "git add <fileName>
+
+If identity unknown:
+	- write these two command:
+		-> git config --global user.email "<ur email>"
+		-> git config --global user.name "<ur name>"
