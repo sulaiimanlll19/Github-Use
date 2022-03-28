@@ -17,3 +17,11 @@ For first intial commit:
 
 Last command to push onto Github:
 	- git push origin master
+
+Ssssooo the following scenario commands for me:
+
+	1. Creating || Modifying || Cloning file
+	2. git status -> to figure which is modified od added
+	3. git add <fileName>
+	4. git commit -m "Describe type of edit"
+	5. git push origin main
