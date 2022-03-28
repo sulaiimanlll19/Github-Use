@@ -16,7 +16,7 @@ For first intial commit:
 	- git commit -m "Initila commit"
 
 Last command to push onto Github:
-	- git push origin master
+	- git push origin master/main
 
 Ssssooo the following scenario commands for me:
 
